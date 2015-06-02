@@ -257,6 +257,32 @@ fieldset[disabled] .btn-xl.active {
     color: #fff;
     background-color: #fec503;
 }
+/*Changes by VIjay*/
+.estimates{
+    display:inline;
+    padding: 250px;
+}
+.form-group{
+    padding-top: 25px;
+    padding-left: 350px;
+    padding-right: 350px;
+
+}
+.form-control{
+    height: 40px;
+}
+.form-control + .glyphicon-map-marker {
+    position: absolute;
+    right: 0;
+    padding-top: 15px;
+}
+#map{
+position: absolute;
+    right: 0;
+    padding-top: 15px;
+    
+}
+/*End changes*/
 
 @media(min-width:768px) {
     .navbar-default {
