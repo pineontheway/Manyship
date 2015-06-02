@@ -754,9 +754,8 @@ section#estimate .text-danger {
 }
 
 section#send{
-    padding-bottom: 0px;
-    margin-bottom: 0px;
-}
+    padding-bottom: 90px;
+    }
 
 footer {
     padding: 25px 0;
